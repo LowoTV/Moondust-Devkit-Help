@@ -2,7 +2,7 @@
 
 You can copy, cut, and paste every block, BGO, NPC, or physical environment area in the level editor and any object on the world map.
 
-If you want to paste anything, your cursor changes the look into a paste icon, and you enter paste-mode. In this mode, you can paste your copied items. Items will appear at the top-left corner of your cursor.
+If you want to paste anything, your cursor changes the look into a paste icon, and you enter paste-mode. In this mode, you can paste your copied items. Items will appear at the top-left corner of your cursor. _You can also copy and paste by selecting the items to be pasted and middle clicking at the top-left corner of where you want to paste it_.
 
 _Place selecting cursor for paste operation_
 
